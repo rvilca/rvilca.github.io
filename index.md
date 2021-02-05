@@ -1,3 +1,5 @@
+## Renato Vilca Valderrama
+
 ## Bio
 Hi! My name is Renato. I'm an Electrical Engineering student at The City College of New York and I'm currently in my senior year.
 
