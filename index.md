@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Bio
+Hi! My name is Renato. I am an Electrical Engineering student at The City College of New York and currently in my senior year.
 
 You can use the [editor on GitHub](https://github.com/rvilca/rvilca.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
