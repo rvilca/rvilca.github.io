@@ -30,7 +30,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Past Projects
-[**Arduino Controlled Fan:**](https://github.com/rvilca/Arduino-Controlled-Fan) I created an Arduino controlled fan whose speed can be either controlled by a potentiometer or by the current temperature. A remote control is used to switch between the two modes. A LCD screen shows the temperature being read in Fahrenheit and what mode the fan is currently in. Click the link for code, images, videos, and .BRD file.
+[Arduino Controlled Fan:](https://github.com/rvilca/Arduino-Controlled-Fan) I created an Arduino controlled fan whose speed can be either controlled by a potentiometer or by the current temperature. A remote control is used to switch between the two modes. A LCD screen shows the temperature being read in Fahrenheit and what mode the fan is currently in. Click the link for code, images, videos, and .BRD file.
 
 
 
