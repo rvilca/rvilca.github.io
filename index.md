@@ -1,10 +1,6 @@
 ## Bio
 Hi! My name is Renato. I'm an Electrical Engineering student at The City College of New York and I'm currently in my senior year.
 
-You can use the [editor on GitHub](https://github.com/rvilca/rvilca.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Current Projects
 HLA
 
