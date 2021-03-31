@@ -1,6 +1,6 @@
 # Renato Vilca Valderrama
 
-## Bio
+## _Bio_
 Hi! My name is Renato. I'm an Electrical Engineering student at The City College of New York and I'm currently in my senior year.
 
 ### _Current Projects_
@@ -12,8 +12,8 @@ Microfluidic Bioprinter
 
 MakeMIT Spreadro
 
-### Past Projects
-[**<font color="blue">Arduino Controlled Fan:</font>**](https://github.com/rvilca/Arduino-Controlled-Fan) I created an Arduino controlled fan whose speed can be either controlled by a potentiometer or by the current temperature. A remote control is used to switch between the two modes. A LCD screen shows the temperature being read in Fahrenheit and what mode the fan is currently in. [**Here**](https://raw.githubusercontent.com/rvilca/Arduino-Controlled-Fan/main/Edit%205%20459%20with%20newest%20code.png) is how it looks like and here are [**1**](https://drive.google.com/file/d/1gk494CJtEBQObdrArnRuGBvn9tSPHHUs/view?usp=sharing) and [**2**](https://drive.google.com/file/d/1i_PO3feknaX6hNtdP3vwDD8R1s_I9jNk/view?usp=sharing) videos of it in action.
+### _Past Projects_
+[**<font color="blue">Arduino Controlled Fan:</font>**](https://github.com/rvilca/Arduino-Controlled-Fan) I created an Arduino controlled fan whose speed can be either controlled by a potentiometer or by the current temperature. A remote control is used to switch between the two modes. A LCD screen shows the temperature being read in Fahrenheit and what mode the fan is currently in. [<font color="blue">Here</font>](https://raw.githubusercontent.com/rvilca/Arduino-Controlled-Fan/main/Edit%205%20459%20with%20newest%20code.png) is how it looks like and here are [<font color="blue">1</font>](https://drive.google.com/file/d/1gk494CJtEBQObdrArnRuGBvn9tSPHHUs/view?usp=sharing) and [<font color="blue">2</font>](https://drive.google.com/file/d/1i_PO3feknaX6hNtdP3vwDD8R1s_I9jNk/view?usp=sharing) videos of it in action.
 
 <!--
 ```markdown
