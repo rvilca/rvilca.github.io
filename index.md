@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://www.ibgohmertcpa.com/media/1046/home-bg.png');
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/1/1a/Abstract-background-white-12.jpg');
 }
 </style>
 # Renato Vilca Valderrama
