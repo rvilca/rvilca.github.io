@@ -1,4 +1,8 @@
-<div style="background-image: url('https://www.ibgohmertcpa.com/media/1046/home-bg.png');">
+<style>
+body {
+  background-image: url('https://www.ibgohmertcpa.com/media/1046/home-bg.png');
+}
+</style>
 # Renato Vilca Valderrama
 
 ## _Bio_
