@@ -1,6 +1,7 @@
 <style>
 body {
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/1/1a/Abstract-background-white-12.jpg');
+  font-family: courier, serif;
 }
 </style>
 # Renato Vilca Valderrama
