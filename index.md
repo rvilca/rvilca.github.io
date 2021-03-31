@@ -3,7 +3,7 @@
 ## Bio
 Hi! My name is Renato. I'm an Electrical Engineering student at The City College of New York and I'm currently in my senior year.
 
-### Current Projects
+### <i>Current Projects</i>
 HLA CX-6 Rocket
 
 AECOM+CCNY COVID-19 Design Challenge Mask Attachment
