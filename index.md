@@ -5,8 +5,6 @@ body {
   color: black;
 }
 </style>
-# I'm **Renato Vilca Valderrama**
-I'm 
 # Renato Vilca Valderrama
 
 ### _About Me_
