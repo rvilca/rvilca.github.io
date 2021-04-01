@@ -5,7 +5,7 @@ body {
   color: black;
 }
 </style>
-# <font yes="font-family:Lato; ">I'm</font> Renato Vilca Valderrama
+<font yes="font-family:Lato; ">I'm</font> Renato Vilca Valderrama
 
 ### _About Me_
 Hi! My name is Renato. I'm an Electrical Engineering student at The City College of New York and I'm currently in my senior year.
