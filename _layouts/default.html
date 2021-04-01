@@ -10,11 +10,6 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    .divider{
-          width:5px;
-          height:auto;
-          display:inline-block;
-    }
   </head>
   <body>
     <div class="wrapper">
@@ -31,12 +26,20 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub<small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
         
+        .divider{
+          width:5px;
+          height:auto;
+          display:inline-block;
+        }
+        
         {% if site.github.is_user_page %}
         <a href="https://rvilca.github.io/resume/">
         <img src="https://cdn1.iconfinder.com/data/icons/business-270/48/81_candidate_resume_shortlietsed_select_qualities_cv_file-512.png" alt="resume" style="width:45px;height:45px;">
         </a>
         <!--<p class="view"><a href="https://rvilca.github.io/resume/">My Resume</a></p>-->
         {% endif %}
+        
+        <div class="divider"/>
         
         {% if site.github.is_user_page %}
         <a href="https://github.com/rvilca">
