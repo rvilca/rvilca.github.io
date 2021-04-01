@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v748-toon-76_1_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=3b8cd1f96fdb0e501097c57ffe8d31cb');
+  background-image: url('https://raw.githubusercontent.com/rvilca/rvilca.github.io/main/pictures/website%20background.jpg');
   font-family: sanfrancisco, sansserif;
   color: black;
 }
