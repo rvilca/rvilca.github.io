@@ -17,6 +17,10 @@ AECOM+CCNY COVID-19 Design Challenge Mask Attachment
 
 Microfluidic Bioprinter
 
+6-Node Network Design
+
+Audio Amplifier
+
 MakeMIT Spreadro
 
 ### _Past Projects_
