@@ -4,12 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    .divider{
-          width:5px;
-          height:auto;
-          display:inline-block;
-        }
     
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -39,10 +33,8 @@
         <!--<p class="view"><a href="https://rvilca.github.io/resume/">My Resume</a></p>-->
         {% endif %}
         
-        <div class="divider"/>
-        
         {% if site.github.is_user_page %}
-        <a href="https://github.com/rvilca">
+        <a style= "padding-left: 80px;" href="https://github.com/rvilca">
         <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" style="width:45px;height:45px;">
         </a>
         <!--<p class="view"><a href="{{ site.github.owner_url }}">My GitHub</a></p>-->
