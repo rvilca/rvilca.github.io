@@ -10,23 +10,25 @@ body {
 ### _About Me_
 Hi! My name is Renato. I'm an Electrical Engineering student at The City College of New York and I'm currently in my senior year.
 
+
 ### _Current Projects_
-HLA CX-6 Rocket
-
-AECOM+CCNY COVID-19 Design Challenge Mask Attachment
-
 Microfluidic Bioprinter
-
-6-Node Network Design
-
-Audio Amplifier
 
 MakeMIT Spreadro
 
 Level 1 Rocket
 
+HLA CX-6 Rocket
+
+AECOM+CCNY COVID-19 Design Challenge Mask Attachment
+
+
 ### _Past Projects_
 [**<font color="#0088cc">Arduino Controlled Fan:</font>**](https://github.com/rvilca/Arduino-Controlled-Fan) I created an Arduino controlled fan whose speed can be either controlled by a potentiometer or by the current temperature. A remote control is used to switch between the two modes. A LCD screen shows the temperature being read in Fahrenheit and what mode the fan is currently in. [**<font color="#0088cc">Here</font>**](https://raw.githubusercontent.com/rvilca/Arduino-Controlled-Fan/main/Edit%205%20459%20with%20newest%20code.png) is how it looks like and here are [**<font color="#0088cc">1</font>**](https://drive.google.com/file/d/1gk494CJtEBQObdrArnRuGBvn9tSPHHUs/view?usp=sharing) and [**<font color="#0088cc">2</font>**](https://drive.google.com/file/d/1i_PO3feknaX6hNtdP3vwDD8R1s_I9jNk/view?usp=sharing) videos of it in action. [**<font color="#0088cc">Here</font>**](https://docs.google.com/presentation/d/1WH_MV_sWeM89hG3IIGQj6spmC00l_MNr5ah9GDILRXQ/edit?usp=sharing) is a slideshow presentation with some background on the project. (Fall, 2020)
+
+6-Node Network Design
+
+Audio Amplifier
 
 <!--
 ```markdown
