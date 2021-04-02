@@ -17,7 +17,7 @@ Hi! My name is Renato. I'm an Electrical Engineering student at The City College
 
 **Spreadro:** For the 2021 MakeMIT Hardware Hackathon, I collaborated with a team of three to design an automated seeding and ice-melt rover. Prototype was awarded prizes in the ”Sustainability” and ”Best Home Robot” categories. [**<font color="#0088cc">Here</font>**](https://devpost.com/software/spreadro-6zds3h) is a link to the Devpost for the project. (Spring, 2021)
 
-**Scorpion Rocket:** For Level 1 Certification, I am currently building a single-deploy Scorpion model rocket kit. Planning to fly in early May. (Spring, 2021)
+**Scorpion Rocket:** For a Level 1 HPR Certification, I am currently building a single-deploy Scorpion model rocket kit. Planning to fly in early May. (Spring, 2021)
 
 **HLA CX-6 Rocket:** As part of the Harlem Launch Alliance, a student-run rocketry organization, I am currently cooperatively designing the CX – 6 rocket’s electrical recovery system and assisting in its integration into the airframe. I also oversee the electrical section’s competition compliance and am helping develop solutions to the design constraints imposed by the CX - 6 Rocket Technical Specifications. (Spring, 2020)
 
