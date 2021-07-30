@@ -9,7 +9,7 @@ body {
 
 
 ### _About Me_
-Hi! My name is Renato. I'm a recently graduated Electrical Engineering student at The City College of New York. Here's what I've been up to.
+Hi! My name is Renato. I'm a recent graduate of The City College of New York where I studied Electrical Engineering. Here's what I've been up to.
 
 
 ### _Current Projects_
