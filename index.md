@@ -13,7 +13,7 @@ Hi! My name is Renato. I'm a recent graduate of The City College of New York whe
 
 
 ### _Current Projects_
-**IoT Doorbell:** While working at the Queens College Makerspace, I programmed and designed a smart doorbell that alerts the Makerspace Slack channel that someone is at the door. I iterated my design across three circuits, each using a different programming language (Python, MicroPython, CircuitPython) running on a different microcontroller (Raspberry Pi 3, HUZZAH ESP8266, Feather M4 Express). [**<font color="#0088cc">Here</font>**](https://photos.app.goo.gl/JuSrLYAUREyRqEHz7) is a link to images of the soldered circuit using the HUZZAH ESP8266. (Summer, 2021)
+[**<font color="#0088cc">IoT Doorbell:</font>**](https://github.com/rvilca/IoT-Doorbell) While working at the Queens College Makerspace, I programmed and designed a smart doorbell that alerts the Makerspace Slack channel that someone is at the door. I iterated my design across three circuits, each using a different programming language (Python, MicroPython, CircuitPython) running on a different microcontroller (Raspberry Pi 3, HUZZAH ESP8266, Feather M4 Express). [**<font color="#0088cc">Here</font>**](https://photos.app.goo.gl/JuSrLYAUREyRqEHz7) is a link to images of the soldered circuit using the HUZZAH ESP8266. (Summer, 2021)
 
 **Spreadro:** For the 2021 MakeMIT Hardware Hackathon, I collaborated with a team of three to design an automated seeding and ice-melt rover. Prototype was awarded prizes in the ”Sustainability” and ”Best Home Robot” categories. [**<font color="#0088cc">Here</font>**](https://devpost.com/software/spreadro-6zds3h) is a link to the Devpost for the project. (Spring, 2021)
 
