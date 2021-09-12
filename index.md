@@ -23,7 +23,7 @@ Hi! My name is Renato. I'm a recent graduate of The City College of New York whe
 
 
 ### _Past Projects_
-**Microfluidic Bioprinter:** As our capstone project, a group of classmates and I created a bioprinter capable of printing microfluidic structures out of hydrogel. We modified a 3D-printer to use a 3D-printed pump and an adjustable laser to extrude and cure material into the desired shape with modified G-Code. [**<font color="#0088cc">Here</font>**](https://photos.app.goo.gl/4vwwU24aLDdwvnyG8) is an album showing what it looks like in action.(Spring, 2021)
+**Microfluidic Bioprinter:** As our capstone project, a group of classmates and I created a bioprinter capable of printing microfluidic structures out of hydrogel. We modified a 3D printer to use a 3D printed pump and an adjustable laser to extrude and cure material into the desired shape with modified G-Code. [**<font color="#0088cc">Here</font>**](https://photos.app.goo.gl/4vwwU24aLDdwvnyG8) is an album showing what it looks like in action.(Spring, 2021)
 
 **Scorpion Rocket:** For a Level 1 HPR Certification, I built a single-deploy Scorpion model rocket kit (courtesy of the good folks at Mac Performance Rocketry). Launched in late May at the Pine Island site of the METRA Rocket Club along with other members of the Harlem Launch Alliance. [**<font color="#0088cc">Here</font>**](https://photos.app.goo.gl/tHESJTchVMv2EkLe9) are photos of the build and launch process and [**<font color="#0088cc">here</font>**](https://photos.app.goo.gl/YDf2VZbPxbEEUUVC6) is a video of that launch. (Spring, 2021)
 
